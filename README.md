@@ -1,0 +1,1 @@
+# Temporale-Analyse-News-Daten-und-Kursentwicklung
