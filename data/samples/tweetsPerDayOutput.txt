@@ -1,0 +1,64 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+16/07/30 11:34:21 INFO SparkContext: Running Spark version 1.6.1
+16/07/30 11:34:21 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+16/07/30 11:34:21 INFO SecurityManager: Changing view acls to: toni
+16/07/30 11:34:21 INFO SecurityManager: Changing modify acls to: toni
+16/07/30 11:34:21 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(toni); users with modify permissions: Set(toni)
+16/07/30 11:34:22 INFO Utils: Successfully started service 'sparkDriver' on port 37723.
+16/07/30 11:34:23 INFO Slf4jLogger: Slf4jLogger started
+16/07/30 11:34:23 INFO Remoting: Starting remoting
+16/07/30 11:34:23 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://sparkDriverActorSystem@172.24.17.189:33011]
+16/07/30 11:34:23 INFO Utils: Successfully started service 'sparkDriverActorSystem' on port 33011.
+16/07/30 11:34:23 INFO SparkEnv: Registering MapOutputTracker
+16/07/30 11:34:23 INFO SparkEnv: Registering BlockManagerMaster
+16/07/30 11:34:23 INFO DiskBlockManager: Created local directory at /tmp/blockmgr-b5033e97-a8ca-43cc-ac4f-6d844604c137
+16/07/30 11:34:23 INFO MemoryStore: MemoryStore started with capacity 2.3 GB
+16/07/30 11:34:23 INFO SparkEnv: Registering OutputCommitCoordinator
+16/07/30 11:34:24 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+16/07/30 11:34:24 INFO Utils: Successfully started service 'SparkUI' on port 4041.
+16/07/30 11:34:24 INFO SparkUI: Started SparkUI at http://172.24.17.189:4041
+16/07/30 11:34:24 INFO Executor: Starting executor ID driver on host localhost
+16/07/30 11:34:24 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 39517.
+16/07/30 11:34:24 INFO NettyBlockTransferService: Server created on 39517
+16/07/30 11:34:24 INFO BlockManagerMaster: Trying to register BlockManager
+16/07/30 11:34:24 INFO BlockManagerMasterEndpoint: Registering block manager localhost:39517 with 2.3 GB RAM, BlockManagerId(driver, localhost, 39517)
+16/07/30 11:34:24 INFO BlockManagerMaster: Registered BlockManager
+Tweets on Jun 21: 20940
+Tweets on Jun 22: 26329
+Tweets on Jun 23: 21687
+Tweets on Jun 24: 20705
+Tweets on Jun 25: 15914
+Tweets on Jun 26: 11516
+Tweets on Jun 27: 17979
+Tweets on Jun 28: 19193
+Tweets on Jun 29: 11275
+Tweets on Jun 30: 24098
+Tweets on Jul 01: 3320
+Tweets on Jul 02: 0
+Tweets on Jul 03: 0
+Tweets on Jul 04: 13538
+Tweets on Jul 05: 16555
+Tweets on Jul 06: 24759
+Tweets on Jul 07: 13639
+Tweets on Jul 08: 18602
+Tweets on Jul 09: 26189
+Tweets on Jul 10: 21776
+Tweets on Jul 11: 20103
+Tweets on Jul 12: 23190
+Tweets on Jul 13: 20672
+Tweets on Jul 14: 20492
+Tweets on Jul 15: 27639
+Tweets on Jul 16: 20188
+Tweets on Jul 17: 20705
+Tweets on Jul 18: 19563
+Tweets on Jul 19: 17251
+Tweets on Jul 20: 23672
+Tweets on Jul 21: 21800
+Tweets on Jul 22: 21734
+Tweets on Jul 23: 19176
+Tweets on Jul 24: 19471
+Tweets on Jul 25: 23413
+Tweets on Jul 26: 17882
+Tweets on Jul 27: 16337
+Tweets on Jul 28: 24389
+Tweets on Jul 29: 21100

@@ -1,0 +1,5 @@
+Die Methode textSplit() teilt das Textdokument in Zeilen und gibt in für jede Zeile, die ein Datum in dem 
+Format: dd/mm/yyyy hat, das Format: yyyy-mm-dd zurück. 
+Danach wird jedem Datumswert der Integer-Wert 1 zugeordnet und in der reduceByKey Anweisung nach dem Datums-
+wert aggregiert. 
+Das Resultat sind die vorkommenden Daten mit der jeweiligen Anzahl.
