@@ -3,10 +3,10 @@
 Project using Spark, Twitter Streaming API and R to explore the relation between news and course data for Bitcoin
 
 ## Install
-Ubuntu 14.04 LTS
-Eclipse Mars
-R
-Dependencies (see pom.xml)
+*Ubuntu 14.04 LTS
+*Eclipse Mars
+*R
+*Dependencies (see pom.xml)
 
 ## Data Import
 Fetching News by searching for bitcoin News
