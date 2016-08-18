@@ -9,11 +9,11 @@ Project using Spark, Twitter Streaming API and R to explore the relation between
 * Dependencies (see pom.xml)
 
 ## Data Import
-#Fetching News by searching for bitcoin News
+###Fetching News by searching for bitcoin News
 *googleTrendsReport (bitcoin_google_trends_report.txt)
 *reuters (reuters_search_bitcoin.txt)
 *cryptocoins (cryptocoinsnews-pressreleases.txt)
-#Fetching Tweets about Bitcoin with Twitter Streaming API
+###Fetching Tweets about Bitcoin with Twitter Streaming API
 *there is a file which shows the fetched tweets (tweets701.json)
 *there is an example for searching for tweets with Twitter Search API (usingTwitterSearchAPI.java)
 *there are tweets saved as DataSet HDFS Format (/allTweets folder) which is done with unionTweets() method
